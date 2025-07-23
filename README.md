@@ -1,6 +1,6 @@
 # 💉 Blood Donation Management System
 
-This project is a **Java-based web application** aimed at streamlining the blood donation process. It provides a centralized platform for **Donors**, **Receivers**, and **Organizations** (like hospitals or blood banks) to interact and manage blood-related services efficiently.
+This project is a **web application** aimed at streamlining the blood donation process. It provides a centralized platform for **Donors**, **Receivers**, and **Organizations**  to interact and manage blood-related services efficiently.
 
 ---
 
@@ -18,7 +18,7 @@ The system includes the following three core modules:
 - 📝 Register and submit blood requests  
 - 🔍 Search for donors based on blood group and location  
 - 📦 Track the status of your request  
-- 👁️ View donor information (with proper approval)  
+- 👁️ View donor information
 
 ### 🏥 Organization Module
 - 👨‍⚕️ Manage donor and receiver data  
